@@ -19,7 +19,7 @@
 		88BB0C652DD5D55700E26C91 /* Exceptions for "ChitChat" folder in "ChitChat" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				App/Info.plist,
 			);
 			target = 88BB0C4F2DD5D55500E26C91 /* ChitChat */;
 		};
